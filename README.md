@@ -9,7 +9,7 @@
 * Wind Speed (mph) vs. Latitude
 2.  Linear regression used on each relationship, for Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude).
 
-### Part II - VacationPy
+## Part II - VacationPy
  1. Created heatmap based on each city humidity.
  2. Created ideal weather condition based on temperature, windspeed and cloudiness.
  3. Used Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.

@@ -8,7 +8,7 @@
 ![scatterplots](output_data/tempinworld.png)
 ![scatterplots](output_data/humidityinworld.png)
 ![scatterplots](output_data/cloudinessinworld.png)
-![scatterplots](output_data/windspeesinworld.png)
+![scatterplots](output_data/windspeedinworld.png)
 
 2.  Linear regression used on each relationship, for Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude).
 

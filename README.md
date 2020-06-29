@@ -2,11 +2,14 @@
 
 ## Part I - WeatherPy
 * Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator
-1. Scatter plots used to show the relationship between: 
-* Temperature (F) vs. Latitude
-* Humidity (%) vs. Latitude
-* Cloudiness (%) vs. Latitude
-* Wind Speed (mph) vs. Latitude
+
+1. Scatter plots used to show the relationship between weather variables as follows:
+
+![scatterplots](output_data/tempinworld.png)
+![scatterplots](output_data/humidityinworld.png)
+![scatterplots](output_data/cloudinessinworld.png)
+![scatterplots](output_data/windspeesinworld.png)
+
 2.  Linear regression used on each relationship, for Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude).
 
 ## Part II - VacationPy
